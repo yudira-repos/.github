@@ -10,16 +10,16 @@ I'm **Ravi Nukala**, a platform engineer and architect with 20+ years building d
 
 ### Featured work
 
-**[agent-forge](https://github.com/yudira-repos/agent-forge)** · Python · alpha
+**[agent-forge](https://github.com/yudira-repos/agent-forge)** · Python · alpha  
 An open enterprise agent framework covering the parts LLM SDKs leave out: signed agent identity and RBAC, a policy and governance engine, human-in-the-loop approval gates, a hash-chained audit log you can verify and replay, and per-agent OpenTelemetry traces. It runs on Claude, OpenAI, LangGraph or Vertex Gemini. CI and 70 tests.
 
-**[epyhia](https://github.com/yudira-repos/epyhia)** · Python
+**[epyhia](https://github.com/yudira-repos/epyhia)** · Python  
 A one-person AI agency: a plain-language brief goes in, and a live site, a launch marketing pack and a working test-mode Stripe checkout come out. Four agents on deliberately chosen model tiers, with every side effect passing through one approval gate. The first commit is [DESIGN.md](https://github.com/yudira-repos/epyhia/blob/main/DESIGN.md), the architecture argument, written before any code.
 
-**[harness-engineering](https://github.com/yudira-repos/harness-engineering)** · Python · no dependencies
+**[harness-engineering](https://github.com/yudira-repos/harness-engineering)** · Python · no dependencies  
 A small, fully offline agent harness you can read in an afternoon, built around a kids' AI tutor. It covers eight concepts (agent loop, tools, context, memory, guardrails, reliability, tracing, evals), each with a runnable example and tests. Companion code for the post *Harness Engineering: Everything Around the Model*.
 
-**[life-os-spa](https://github.com/yudira-repos/life-os-spa)** · TypeScript / Next.js
+**[life-os-spa](https://github.com/yudira-repos/life-os-spa)** · TypeScript / Next.js  
 LifeOS V1: one household app covering Kids, Property, Travel, Health and Finance modules behind Google sign-in, on Postgres and Redis, deployed with Docker on Railway.
 
 ---
